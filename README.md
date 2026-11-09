@@ -1,2 +1,5 @@
 # amazon-interview-prep
-prepping for amazon and aws interviews
+
+Notes and practice materials for Amazon and AWS interviews.
+
+- [Amazon Leadership Principles interview guide](leadership-principles.md)
