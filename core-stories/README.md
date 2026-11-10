@@ -10,3 +10,4 @@ Each file is one real experience prepared for behavioral interviews. The Leaders
 | [Automating SRE maintenance to clear a longstanding ticket backlog](sre-maintenance-automation.md) | Invent and Simplify; Ownership |
 | [Earning trust to lead a larger CI/CD migration](earning-trust-through-cicd-delivery.md) | Earn Trust |
 | [Restoring consistent SSM access to EKS nodes](ssm-node-access-standardization.md) | Dive Deep; Insist on the Highest Standards; Deliver Results |
+| [Creating capacity for a platform team to move beyond KTLO](platform-capacity-transformation.md) | Think Big; Ownership; Have Backbone, Disagree and Commit |
