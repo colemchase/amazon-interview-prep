@@ -8,3 +8,5 @@ Each file is one real experience prepared for behavioral interviews. The Leaders
 | [Resolving a multi-year GuardDuty alert issue](guardduty-pod-placement-remediation.md) | Bias for Action; Insist on the Highest Standards |
 | [Building a deliberate cloud-native learning roadmap](deliberate-cloud-native-learning.md) | Learn and Be Curious |
 | [Automating SRE maintenance to clear a longstanding ticket backlog](sre-maintenance-automation.md) | Invent and Simplify; Ownership |
+| [Earning trust to lead a larger CI/CD migration](earning-trust-through-cicd-delivery.md) | Earn Trust |
+| [Restoring consistent SSM access to EKS nodes](ssm-node-access-standardization.md) | Dive Deep; Insist on the Highest Standards; Deliver Results |
