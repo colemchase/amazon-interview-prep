@@ -4,9 +4,7 @@
 
 > There are two reasons why I want to work at amazon. 
 
-> First, I started my career two years ago, and since then I’ve consistently looked for more ownership and impact. I went from a new grad to the primary on-call engineer for Kubernetes infrastructure and CI/CD supporting a site with tens of millions of users. I’m ready to take that experience to a company whose products I genuinely use and whose infrastructure operates at a scale that will challenge me to grow.
-
-> Second, my technical lead asked me at my six-month review to step into the SRE Lead role, which confirmed that I’m ready for the next level of responsibility. I want to remain a high-impact individual contributor, but I’ve reached the point where my current project cannot offer the technical breadth or pace of growth I’m looking for. Amazon is where I can continue building deep platform expertise, take ownership of larger problems, and contribute to services that matter to customers every day. 
+> I started my career two years ago, and since then I’ve been on a relentless pursuit for more technical ownership and customer impact. I've gone from being a new grad to the primary on-call engineer for Kubernetes infrastructure that spans hundreds of nodes and thousands of pods, for a national website with tens of millions of users. At my current role, I have been asked to be the SRE Lead. However, I want to continue developing my a high-impact individual contributor. I’ve learned the ins and outs of my current project, and overhauled many of the systems through my own designs. My current project cannot offer the technical pace of growth I’m looking for in my next career progression. Amazon is where I can continue building deep platform expertise, take ownership of hyperscaled problems, and contribute to services that matter to customers around the world. 
 
 ## Skim notes
 
