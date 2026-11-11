@@ -4,6 +4,7 @@ These are answer-ready practice prompts for common Amazon/AWS behavioral questio
 
 | Question | Primary Leadership Principle | Best supporting story |
 | --- | --- | --- |
+| [Who are you?](who-am-i.md) | N/A | Career narrative |
 | [Tell me about yourself](tell-me-about-yourself.md) | N/A | Career narrative |
 | [Why Amazon?](why-amazon.md) | N/A | Career narrative and platform work |
 | [Tell me about a time you disagreed with a coworker](disagreed-with-a-coworker.md) | Ownership; Have Backbone, Disagree and Commit | HGN impaired-driving detection capstone |
