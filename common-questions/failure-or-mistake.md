@@ -16,14 +16,14 @@
 
 ## Skim notes
 
-- Capstone: ML model graded user movement.
-- Reported 99% accuracy based on K-fold validation.
-- Found evaluation was affected by ordered training data: passing samples first, failing samples last.
-- Corrected the configuration; accuracy fell to 75% weeks before the research event.
-- Shared the bad news immediately rather than present a misleading result.
-- Reworked the model with valid evaluation; accuracy reached the low 90s.
-- Presented accurate research; university fully funded patent pursuit.
-- Lesson: validate the validation and share bad news early.
+- Movement-grading capstone.
+- Report 99% accuracy.
+- Ordered-data validation flaw.
+- Accuracy falls 75%.
+- Share bad news.
+- Ethically rebuild model.
+- Patent funding awarded.
+- Validate validation setup.
 
 ## Details to add before the interview
 

@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- Start with the outcome that cannot move; identify what can change.
-- Five minutes before go-live, another team’s integration failed.
-- Do not take an unsafe shortcut or wait passively.
-- Use a safe temporary solution; state its limitations plainly.
-- Meet the deadline, then own and close the underlying issue.
-- Principle: protect the outcome, make tradeoffs explicit, do not leave debt behind.
+- Protect fixed outcome.
+- Five-minute integration failure.
+- Avoid unsafe shortcuts.
+- Use safe workaround.
+- Close root issue.
+- Protect, disclose, close.
 
 ## What to emphasize
 

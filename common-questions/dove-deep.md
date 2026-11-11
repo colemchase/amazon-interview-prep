@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- SSM node access worked inconsistently across environments; audit risk.
-- Created a cross-environment truth table instead of debugging one environment at a time.
-- Found inconsistent `dkr.ecr` private hosted-zone entries and VPC associations.
-- Immediate fix: update script plus QA regression test.
-- Durable fix: managed configuration in IaC.
-- Result: consistent access everywhere; FedRAMP audit control satisfied.
+- Inconsistent SSM access.
+- Compare all environments.
+- Find DNS drift.
+- Script and regression.
+- Codify through IaC.
+- Restore audit control.
 
 ## What to emphasize
 

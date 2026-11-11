@@ -6,12 +6,12 @@
 
 ## Skim notes
 
-- Platform/SRE engineer: AWS, EKS, CI/CD, and automation.
-- CI/CD migration: clearer visibility; hundreds of services.
-- Standardized node access for successful FedRAMP audit.
-- Automated maintenance; cleared a year-old service desk backlog.
-- Theme: find the constraint, fix it durably, create capacity.
-- Next: apply that platform experience at larger scale.
+- Platform SRE engineer.
+- Migrate hundreds services.
+- Enable FedRAMP access.
+- Clear ticket backlog.
+- Remove recurring constraints.
+- Scale platform impact.
 
 ## Why this answer works
 

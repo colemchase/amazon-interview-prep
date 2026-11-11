@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- EC2 API failed in one region; Karpenter could not launch replacement instances.
-- Failed traffic over to the other region to protect availability.
-- Froze Karpenter to prevent more node churn in the affected region.
-- Waited for AWS Health confirmation, then additional time.
-- Failed traffic back gradually to avoid a thundering-herd recovery.
-- Bias for action: stabilize quickly, then recover deliberately.
+- Regional EC2 outage.
+- Fail over region.
+- Pause Karpenter actions.
+- Await AWS Health.
+- Gradual traffic return.
+- Stabilize, then recover.
 
 ## What to emphasize
 

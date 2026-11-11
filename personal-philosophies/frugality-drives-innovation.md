@@ -16,13 +16,13 @@ I later incorporated the self-bootstrapping idea into a new EKS construct I crea
 
 ## Skim notes
 
-- Frugality is a design input, not only post-hoc cost cleanup.
-- Wanted to practice Kubernetes on EKS because it matched the production platform.
-- Persistent personal infrastructure would create unnecessary recurring cost.
-- Built constructs that bootstrap the environment and automatically tear it down.
-- Result: reusable, disposable, self-service practice environment with lower idle cost.
-- Reused the self-bootstrapping pattern in a new EKS construct at work.
-- Better design can be cheaper, more repeatable, faster, and more reliable.
+- Frugality drives design.
+- Match production EKS.
+- Avoid idle cost.
+- Bootstrap, then teardown.
+- Reusable disposable lab.
+- Reuse workplace pattern.
+- Improve through constraints.
 
 ## Interview answer
 

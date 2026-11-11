@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Pick a decision where doing nothing also carried a cost.
-- Explain the upside, downside, and evidence available at the time.
-- Name guardrails: phased rollout, rollback, test, limit, or approval.
-- State the decision and result.
-- Explain what you learned about taking risk.
+- Inaction has cost.
+- Assess risk evidence.
+- Establish safety guardrails.
+- Decide, then measure.
+- Capture risk lessons.
 
 ## Details to add before the interview
 

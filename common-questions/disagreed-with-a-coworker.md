@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Pick a real disagreement about an approach, priority, or technical decision.
-- Start with the shared goal and the other person’s reasonable concern.
-- State your view, the evidence you brought, and how you communicated it.
-- Explain the decision and what you did next.
-- End with the outcome and what you learned about working together.
+- Choose real disagreement.
+- Start shared goal.
+- Bring supporting evidence.
+- Explain decision aftermath.
+- Share relationship outcome.
 
 ## Details to add before the interview
 

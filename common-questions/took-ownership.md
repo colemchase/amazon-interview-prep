@@ -9,12 +9,13 @@
 
 ## Skim notes
 
-- Maintenance work was consuming capacity; developer and service-desk work piled up.
-- Treated the operating model—not individual tickets—as the problem.
-- Automated repeatable work; created background workflows for low-supervision work.
-- Kept judgment-heavy work manual and controlled.
-- Result: capacity for developers and a backlog cleared for the first time in over a year.
-- Ownership: remove the constraint, not just process more tickets.
+- Maintenance consumed capacity.
+- Fix operating model.
+- Automate repeatable tasks.
+- Run supervised workflows.
+- Preserve human oversight.
+- Clear year-old backlog.
+- Remove recurring constraint.
 
 ## What to emphasize
 

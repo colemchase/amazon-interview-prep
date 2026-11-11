@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Motivated by reliable platforms, developer experience, and meaningful scale.
-- Relevant proof: CI/CD migration for hundreds of services.
-- Relevant proof: standardized audit-critical node access; automated maintenance.
-- Alignment: customer focus, deep investigation, durable fixes.
-- Bring AWS, Kubernetes, and platform experience to greater customer impact.
+- Platforms, developers, scale.
+- Hundreds-service CI/CD proof.
+- Audit automation proof.
+- Customer-centered durable fixes.
+- Scale AWS impact.
 
 ## How to tailor it
 

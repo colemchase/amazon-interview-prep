@@ -20,16 +20,16 @@
 
 ## Skim notes
 
-- Initial issue: no SSM access in development; test worked, production did not.
-- Initial hypothesis: instance logs or node permissions.
-- Permissions looked correct; logs were inaccessible because SSM access was missing.
-- Reframed as an environment-to-environment networking comparison.
-- Used node access in the working test environment to trace traffic exiting through the public internet.
-- That observation pointed to endpoint DNS and private hosted-zone behavior.
-- No CDK source of truth because networking had been manually configured.
-- Built a truth table; found inconsistent `dkr.ecr` private-hosted-zone and VPC associations.
-- Immediate idempotent fix, QA regression test, then durable CDK implementation.
-- The CDK fix remains in place today.
+- Development SSM failure.
+- Permissions/logs hypothesis.
+- Permission check passed.
+- Compare environment networking.
+- Test public egress.
+- Inspect DNS behavior.
+- Missing CDK baseline.
+- Truth-table comparison.
+- Script, test, CDK.
+- Durable configuration remains.
 
 ## Details to add before the interview
 

@@ -11,12 +11,12 @@
 
 ## Skim notes
 
-- Pick a project with a clear customer or business outcome.
-- Set the stakes: what needed to change and why it mattered.
-- Be precise about what you personally owned.
-- Share the hardest decision, constraint, or turning point.
-- Give the result with real evidence.
-- Explain why you are proud: impact, growth, team outcome, or durable improvement.
+- Choose meaningful project.
+- Establish customer stakes.
+- Clarify personal ownership.
+- Share decisive moment.
+- Prove real impact.
+- Explain earned pride.
 
 ## Details to add before the interview
 

@@ -9,11 +9,11 @@
 
 ## Skim notes
 
-- Multi-year GuardDuty alerts had been normalized as an EKS-owned issue.
-- Standard: delayed security coverage is not acceptable security coverage.
-- Investigated logs; found a pod-placement misconfiguration.
-- Corrected configuration so placement was immediate, not eventual.
-- Eliminated the security-posture gap and resolved the longstanding alert issue.
+- Longstanding GuardDuty alerts.
+- Immediate security standard.
+- Diagnose placement error.
+- Make placement immediate.
+- Eliminate security gap.
 
 ## What to emphasize
 

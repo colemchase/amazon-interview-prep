@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- KTLO and service tickets used all capacity; leadership declined a larger migration.
-- Agreed with the immediate priority, disagreed it should permanently block migration.
-- Committed to solving the constraint rather than continuing to argue.
-- Automated maintenance and delivered smaller overhead-reducing improvements.
-- Used the capacity and results to develop and gain approval for a migration.
-- Disagree on the long-term conclusion; commit fully to the current priority.
+- KTLO consumed capacity.
+- Respect immediate priority.
+- Solve capacity constraint.
+- Automate recurring work.
+- Build migration evidence.
+- Commit after disagreement.
 
 ## What to emphasize
 

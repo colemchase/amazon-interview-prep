@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- Saw that reactive, ticket-by-ticket learning would limit my platform impact.
-- Built an AWS, master’s degree, and Kubernetes learning roadmap.
-- Use goals to identify gaps, practice hands-on, and apply learning at work.
-- CI/CD example: learned a new tool; recreated environment and sample projects at home.
-- Applied it to production migration with better visibility for hundreds of services.
-- Learning matters when it improves a real technical decision.
+- Avoid reactive learning.
+- AWS, degree, Kubernetes.
+- Practice applied learning.
+- Recreate developer workflow.
+- Migrate hundreds services.
+- Learning changes decisions.
 
 ## What to emphasize
 

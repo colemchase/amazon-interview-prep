@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Pick a cross-team decision, adoption effort, or dependency.
-- Start with why the other team did not automatically agree.
-- Show how you listened, adapted the proposal, and built credibility.
-- Explain the mechanism: prototype, data, written plan, pilot, or shared goal.
-- End with the outcome and relationship, not just compliance.
+- Choose cross-team dependency.
+- Understand their concerns.
+- Listen, adapt, build.
+- Use concrete mechanism.
+- Preserve relationship afterward.
 
 ## Details to add before the interview
 

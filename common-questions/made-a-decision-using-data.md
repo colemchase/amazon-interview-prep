@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Pick a decision where intuition alone was not enough.
-- State the question you needed data to answer.
-- Explain what you measured or compared and why it was relevant.
-- Describe the insight, decision, and outcome.
-- Mention a limitation or validation step if relevant.
+- Intuition insufficient alone.
+- Frame decision question.
+- Measure relevant signals.
+- Translate insight action.
+- Validate limitations explicitly.
 
 ## Details to add before the interview
 

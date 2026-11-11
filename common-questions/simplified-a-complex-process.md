@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- Manual maintenance interrupted higher-value work.
-- Classified tasks by the operational judgment they required.
-- Automated repeatable tasks; background workflows for low-supervision work.
-- Kept high-judgment work manual.
-- Simplified to three paths: automated, supervised, hands-on.
-- Result: more developer capacity and a year-old backlog cleared.
+- Maintenance interrupts impact.
+- Classify judgment needs.
+- Automate repeatable tasks.
+- Retain human judgment.
+- Create three paths.
+- Clear year-old backlog.
 
 ## What to emphasize
 

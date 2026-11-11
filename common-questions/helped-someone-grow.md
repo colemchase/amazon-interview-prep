@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Pick a teammate, new hire, or peer with a meaningful growth goal.
-- Describe their starting point and the skill or confidence gap.
-- Explain how you coached, reviewed, created space to practice, or shared context.
-- Show their outcome and how they became more independent.
-- Give them credit; do not tell the story as your achievement alone.
+- Choose growth opportunity.
+- Identify development gap.
+- Coach, review, practice.
+- Build independence gradually.
+- Credit their growth.
 
 ## Details to add before the interview
 

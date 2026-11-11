@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Pick a moment when two important commitments conflicted.
-- State how you ranked them: customer impact, risk, deadline, or reversibility.
-- Explain what you deferred, delegated, reduced, or renegotiated.
-- Show how you communicated the tradeoff early.
-- Close with the outcome and what you learned about prioritization.
+- Identify true conflict.
+- Rank by impact.
+- Defer or delegate.
+- Communicate tradeoffs early.
+- Review outcome later.
 
 ## Details to add before the interview
 

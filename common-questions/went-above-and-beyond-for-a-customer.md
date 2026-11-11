@@ -10,12 +10,12 @@
 
 ## Skim notes
 
-- Customer: developers using a confusing legacy CI/CD pipeline.
-- Pain: poor promotion visibility and no clear deployed commit/digest.
-- Went beyond platform assumptions: built a representative home lab and sample projects.
-- Used my own time and resources to learn the developer workflow and evaluate tools.
-- Designed and delivered the production migration.
-- Result: clear promotion visibility, full developer adoption, hundreds of services.
+- Developers are customers.
+- Legacy CI/CD confusion.
+- Build home lab.
+- Test developer workflow.
+- Deliver production migration.
+- Full adoption, scale.
 
 ## What to emphasize
 

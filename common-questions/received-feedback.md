@@ -10,11 +10,11 @@
 
 ## Skim notes
 
-- Choose meaningful feedback, not a disguised compliment.
-- State the feedback plainly and explain why it was fair or useful.
-- Describe your initial response briefly, then focus on what you changed.
-- Name the concrete new behavior, process, or habit.
-- Close with a measurable or observed improvement.
+- Choose meaningful feedback.
+- State feedback plainly.
+- Focus behavior change.
+- Build new habit.
+- Measure improvement afterward.
 
 ## Details to add before the interview
 

@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- Go-live depended on another team’s integration.
-- Five minutes before launch, their integration failed.
-- Proposed a safe temporary path rather than missing the deadline or hiding the issue.
-- Launched successfully and communicated that the workaround was temporary.
-- Followed through with the other team until the permanent fix was closed.
-- Result: protected the deadline without creating an unowned workaround.
+- External integration dependency.
+- Five-minute launch failure.
+- Propose safe workaround.
+- Launch with transparency.
+- Close permanent fix.
+- Deadline safely protected.
 
 ## What to emphasize
 

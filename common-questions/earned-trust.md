@@ -9,12 +9,12 @@
 
 ## Skim notes
 
-- Wanted a large CI/CD migration; technical lead had not yet seen enough evidence.
-- Learned the stack independently and found a smaller measurable improvement.
-- Fixed IaC pipeline: cut build/deployment time by 50%.
-- Successfully delivered a smaller initiative.
-- Used evidence to clarify the migration’s value, risk, and path.
-- Trust came from preparation, results, and communication—not just a proposal.
+- Migration needs trust.
+- Learn stack independently.
+- Halve IaC pipeline.
+- Deliver smaller initiative.
+- Clarify migration path.
+- Earn through delivery.
 
 ## What to emphasize
 
