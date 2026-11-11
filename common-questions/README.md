@@ -13,7 +13,7 @@ These are answer-ready practice prompts for common Amazon/AWS behavioral questio
 | [Tell me about a calculated risk you took](calculated-risk.md) | To choose | To choose |
 | [Tell me about a time you influenced without authority](influenced-without-authority.md) | To choose | To choose |
 | [Tell me about a time you worked through ambiguity](worked-through-ambiguity.md) | Dive Deep; Insist on the Highest Standards | SSM node access standardization |
-| [Tell me about a time you had competing priorities](competing-priorities.md) | To choose | To choose |
+| [How do you handle competing priorities?](competing-priorities.md) | N/A | Scheduling from acceptance criteria |
 | [Tell me about a decision you made using data](made-a-decision-using-data.md) | To choose | To choose |
 | [Tell me about a time you went above and beyond for a customer](went-above-and-beyond-for-a-customer.md) | Customer Obsession | CI/CD migration |
 | [Tell me about a time you helped someone grow](helped-someone-grow.md) | Hire and Develop the Best; Strive to be Earth’s Best Employer | Cloud-native mentorship learning path |
