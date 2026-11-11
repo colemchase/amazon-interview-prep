@@ -50,17 +50,17 @@ The disagreement was not whether KTLO work mattered; it was whether its current 
 
 ## Details to add before the interview
 
-- How much of your time did maintenance and service tickets consume before the plan?
-- Which smaller initiatives saved the platform team time, and by how much?
-- Which migration did you later propose and execute?
-- Who approved the work, and what changed their confidence?
-- What specific developer or business outcome did the migrations create?
-- What did leadership say when they initially declined to prioritize the migration?
-- How did you communicate the phased plan and show that it was compatible with the KTLO commitment?
+- Pre-plan workload.
+- Small-initiative savings.
+- Migration delivered.
+- Approval confidence.
+- Customer outcome.
+- Initial leadership response.
+- Phase-plan communication.
 
 ## Likely follow-ups
 
-- How did you decide the three phases and their order?
-- Why did you not immediately propose the large migration?
-- What would you have done if leadership had not approved the later migration?
-- How did you balance ongoing service obligations with the improvement work?
+- Why three phases?
+- Why not immediately?
+- No-approval contingency.
+- Balance service work.

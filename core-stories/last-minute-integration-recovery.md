@@ -34,17 +34,17 @@ We met the go-live deadline using a temporary solution that worked. The immediat
 
 ## Details to add before the interview
 
-- What was launching, who was affected, and why was the deadline important?
-- What was the integration, and what precisely failed on the other team’s side?
-- What was the temporary solution, and why was it safe enough to use?
-- Who approved the temporary path and how did you communicate its limitations?
-- What did you do after go-live to track, test, and close the permanent fix?
-- How long did it take to close the issue, and what evidence confirmed closure?
-- Did you add a runbook, test, contract, alert, or other guardrail to prevent recurrence?
+- Launch stakes.
+- Integration failure.
+- Safe temporary path.
+- Approval, risk communication.
+- Permanent closure.
+- Closure timing.
+- Recurrence guardrail.
 
 ## Likely follow-ups
 
-- How did you decide the temporary solution was safe enough for go-live?
-- Why could the other team’s integration problem not be fixed before launch?
-- What would you have done if no safe temporary option existed?
-- How did you make sure the permanent fix was prioritized after the deadline passed?
+- Temporary-path safety.
+- Why not fixed?
+- No-workaround contingency.
+- Permanent-fix priority.

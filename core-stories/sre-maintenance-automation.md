@@ -37,18 +37,18 @@ Recurring maintenance tasks became either fully automated or background tasks. T
 
 ## Details to add before the interview
 
-- What maintenance tasks were the biggest sources of manual effort?
-- Which tasks became fully automated, and which needed light supervision?
-- What tools, scripts, skills, or workflows did you create?
-- About how much time did this save per week or month?
-- How many tickets were on the service desk board when you started, and how long did clearing it take?
-- What guardrails, reviews, monitoring, or rollback steps kept automation safe?
-- How did developers experience the improvement—for example, response time or ticket turnaround?
+- Biggest manual tasks.
+- Automated/supervised split.
+- Tools/workflows built.
+- Time saved.
+- Backlog size/duration.
+- Safety guardrails.
+- Developer turnaround.
 
 ## Likely follow-ups
 
-- How did you decide which work was safe to automate?
-- What did you deliberately keep manual, and why?
-- What was the hardest task to simplify?
-- How did you prove the automation was reliable?
-- How did you prevent the backlog from returning?
+- Automation criteria.
+- Why manual?
+- Hardest simplification.
+- Reliability proof.
+- Prevent backlog return.

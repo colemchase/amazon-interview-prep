@@ -46,20 +46,20 @@ The university provided full funding to pursue a patent. I received the patent e
 
 ## Details to add before the interview
 
-- The exact patent title, patent number, and grant date that are safe to share.
-- The study’s sample size, participant criteria, and the metrics used to evaluate the prototype.
-- The computer-vision model, edge-device hardware, AWS services, and which tasks ran where.
-- The definition and safeguards for the condition that kept the vehicle in neutral.
-- The specific accuracy, false-positive, or other performance results from the study.
-- Your collaborators’ roles and your exact individual ownership at each stage.
-- The name and year of the University of Virginia symposium.
-- The grants or continuation work by the following student cohort.
+- Shareable patent details.
+- Study size/method.
+- Model, hardware, AWS.
+- Neutral safety rules.
+- Performance metrics.
+- Contributor ownership.
+- Symposium date.
+- Follow-on grants.
 
 ## Likely follow-ups
 
-- Why was HGN the right starting point for this product?
-- How did you ensure the study was ethical and the data was reliable?
-- What technical challenge was hardest: computer vision, edge hardware, vehicle integration, or cloud design?
-- How did you decide what belonged on the edge device versus AWS?
-- What did you learn from the patent process?
-- What would you improve if you were continuing the product today?
+- Why HGN?
+- Ethical data collection.
+- Hardest technical challenge.
+- Edge versus AWS.
+- Patent-process lesson.
+- Next product improvement.

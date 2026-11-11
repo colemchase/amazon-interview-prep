@@ -42,18 +42,18 @@ SSM access was made consistent for nodes across all environments. The short-term
 
 ## Details to add before the interview
 
-- How many environments, VPCs, clusters, or nodes were affected?
-- Which specific SSM workflow failed, and what was the operational impact?
-- What columns or conditions were included in the truth table?
-- Why did the `dkr.ecr` private hosted zone and VPC association affect SSM access?
-- What did the short-term update script and QA regression script validate?
-- How did you prove access was reliable across every environment after the change?
-- Which FedRAMP control or audit requirement depended on this access?
+- Affected environments.
+- Failed SSM workflow.
+- Truth-table columns.
+- PHZ/VPC dependency.
+- Script regression scope.
+- All-environment proof.
+- FedRAMP control.
 
 ## Likely follow-ups
 
-- How did you choose the first data points for the truth table?
-- Why were the environments configured differently in the first place?
-- Why did you use a script first instead of moving immediately to IaC?
-- What would have happened if the issue had remained unresolved?
-- How did you validate that the IaC fix would not introduce regressions?
+- First data points.
+- Why configuration drift?
+- Why script first?
+- Unresolved-risk impact.
+- IaC regression validation.

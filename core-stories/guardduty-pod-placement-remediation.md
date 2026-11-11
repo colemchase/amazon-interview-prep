@@ -32,16 +32,16 @@ I resolved a multi-year issue that had spanned the current and previous roles. T
 
 ## Details to add before the interview
 
-- What GuardDuty finding or alert pattern was recurring?
-- What specific pod-placement configuration was wrong?
-- How did you prove the misconfiguration was the source of the alerts?
-- How did you validate that the remediation worked and the alerts stopped?
-- How many alerts, clusters, workloads, or teams were affected?
-- Did you document the root cause or create a safeguard to prevent recurrence?
+- Recurring finding.
+- Placement misconfiguration.
+- Root-cause proof.
+- Fix validation.
+- Impact scope.
+- Recurrence guardrail.
 
 ## Likely follow-ups
 
-- Why had the issue gone unresolved for so long?
-- How did you decide this was worth investigating?
-- What did the logs show that changed the team’s understanding?
-- How did you ensure the fix did not create a new scheduling or availability issue?
+- Why unresolved?
+- Why investigate?
+- Key log evidence.
+- Scheduling safety.

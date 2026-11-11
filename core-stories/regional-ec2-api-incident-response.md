@@ -34,17 +34,17 @@ Traffic remained served through the other region during the EC2 API incident. By
 
 ## Details to add before the interview
 
-- Which AWS Region was affected, which region received the traffic, and what service or customers were affected?
-- What signals showed the EC2 API issue and Karpenter launch failures?
-- How did you fail traffic over, freeze Karpenter, and verify that each action took effect?
-- What AWS Health signal did you wait for, and how long did you wait after it became healthy?
-- What did the gradual failback look like: traffic percentages, timing, health checks, or rollback criteria?
-- What capacity was available in the receiving region, and how did you confirm it could absorb the traffic?
-- Were any runbooks, alarms, capacity changes, or post-incident actions created afterward?
+- Affected/healthy region.
+- Detection signals.
+- Failover pause validation.
+- AWS Health criteria.
+- Gradual failback plan.
+- Receiving-region capacity.
+- Post-incident hardening.
 
 ## Likely follow-ups
 
-- Why was freezing Karpenter necessary after traffic had already failed over?
-- How did you decide it was safe to fail traffic back?
-- Why did you choose a gradual failback instead of returning all traffic at once?
-- What would you have done if the receiving region had not had enough capacity?
+- Why pause Karpenter?
+- Failback safety.
+- Why gradual?
+- Capacity shortfall plan.

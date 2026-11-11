@@ -38,21 +38,20 @@ The new pipeline addressed the core developer feedback: it was easier to underst
 
 ## Details to add before the interview
 
-- What specifically was hard to follow in the prior pipeline?
-  - Cross region replication of images using a ecr evets, sns topic, and an argo events watcher
-  - promotion to next environment was a clunky argo workflow
-  - no easy visibility to what digest is in prod
-- What changed in visibility—for example, deployment status, logs, approvals, or promotion stages?
-  - which commit/digest was in each env for every service
-  - clear promotion validation in a ui
-- What was the migration plan, and how did you reduce risk or avoid downtime?
-  - created a eks cluster that would function as the build env workhorse. i would build images, and provide the compute for kargo and argo dashboards.
-- What measurable outcome or developer feedback confirmed the improvement?
-  - complete adoption for all the development teams
+- Legacy ECR/SNS/Argo flow.
+- Clunky Argo promotion.
+- Missing production digest.
+- Per-environment commit visibility.
+- Promotion validation UI.
+- EKS build foundation.
+- Kargo/Argo dashboards.
+- Full developer adoption.
 
 ## Likely follow-ups
 
-- How did you validate that this was the right problem to solve? Interviewing developers on their currect struggles, understanding the current system. recreating the baseline eks infra at home and making my own cicd process for personal project, then implementing that system at work.
-- Why did you choose that technology instead of improving the existing pipeline? Tech lead gave me several options, I trial them myself and ended up with Kargo.
-- What tradeoffs did you make in the design? Since we were migrating from a complex cicd pipeline in an env with no visibility. I decided to implement an improved eks cluster with argocd first, before tackeling the migration. The tradeoff off was a delayed reward in exchange for greater visibility during the migration.
-- What would you do differently if you repeated the migration? Instead, I would define a small first phase—for example, establishing the observable EKS and Argo CD foundation—explain its standalone value, and secure approval for that phase first. Each subsequent phase would build on the prior one, with a clear benefit, success criterion, and decision point. That would make prioritization easier, create earlier value, and let stakeholders gain confidence through visible progress while still moving toward the same final outcome.
+- Developer interviews.
+- Home environment replica.
+- Trialed platform options.
+- Chose Kargo.
+- Visibility before migration.
+- Approve phases separately.

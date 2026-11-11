@@ -37,17 +37,17 @@ I reduced infrastructure-as-code pipeline build and deployment time by **50%**. 
 
 ## Details to add before the interview
 
-- What about the stack did you learn, and how did it change your approach?
-- What was wrong with the infrastructure-as-code pipeline before the fix?
-- What were the build and deployment times before and after the change?
-- What was the smaller initiative, and what made it successful?
-- Who needed to approve the larger migration, and what concerns did they have?
-- What changed in your proposal or communication that made approval possible?
+- Learned stack details.
+- IaC pipeline bottleneck.
+- 50% before/after.
+- Small initiative outcome.
+- Approver concerns.
+- Approval message change.
 
 ## Likely follow-ups
 
-- Why did the technical lead hesitate initially?
-- How did you respond to the lack of trust without becoming defensive?
-- What did you do to ensure the 50% improvement was sustainable?
-- How did you decide the smaller initiative was the right next step?
-- What did you learn about earning trust on a technical team?
+- Initial hesitation.
+- Non-defensive response.
+- Sustainable improvement.
+- Why smaller first?
+- Trust-building lesson.

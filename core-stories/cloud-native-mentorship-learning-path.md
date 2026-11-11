@@ -41,18 +41,18 @@ The learning path gives interns and new grads a concrete way to develop platform
 
 ## Details to add before the interview
 
-- How many interns or new grads have used the learning path?
-- Which labs have you personally taught, reviewed, or improved based on learner feedback?
-- What was one learner’s starting point and concrete outcome after completing part of the path?
-- How long does each stage take, and what does a successful completion look like?
-- What guardrails keep AWS costs, permissions, and security safe in the labs?
-- How does the final Kargo pipeline compare with the delivery platform you use at work?
-- What feedback or evidence shows that the path builds learner independence?
+- Learner count.
+- Labs personally taught.
+- Learner outcome.
+- Stage timing.
+- Cost/security guardrails.
+- Work-platform alignment.
+- Independence evidence.
 
 ## Likely follow-ups
 
-- Why did you choose this sequence instead of teaching Kubernetes first?
-- How do you adapt the path for someone with different prior experience?
-- How do you know when a learner is ready to move to the next stage?
-- How do you balance giving help with letting someone learn through debugging?
-- What would you add next to the curriculum?
+- Why this sequence?
+- Adapt prior experience.
+- Advance readiness.
+- Guided debugging.
+- Next curriculum step.

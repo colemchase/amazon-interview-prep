@@ -34,16 +34,16 @@ I created a sustained, intentional learning practice rather than reacting only t
 
 ## Details to add before the interview
 
-- Which AWS certifications have you completed, and what remains for the Golden Jacket goal?
-- What master’s program are you completing or have you completed, and what is its expected or actual completion date?
-- Which Kubernetes certifications have you completed or plan to complete for the Kubestronaut goal?
-- Name one example where this learning changed a work decision or improved a project outcome.
-- What study cadence, labs, projects, or community resources kept the plan moving?
-- What evidence shows growth beyond credentials—for example, a new responsibility, project, or technical decision?
+- Completed AWS certifications.
+- Degree timeline.
+- Kubernetes milestones.
+- Work application.
+- Study cadence.
+- Growth beyond credentials.
 
 ## Likely follow-ups
 
-- Why did you choose these learning goals?
-- How do you decide what to learn when time is limited?
-- How have you applied this learning to a problem at work?
-- What did you learn recently that changed your technical perspective?
+- Why these goals?
+- Learning prioritization.
+- Work application.
+- Recent perspective shift.

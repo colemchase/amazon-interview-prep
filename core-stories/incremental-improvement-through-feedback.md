@@ -36,16 +36,16 @@ The approach led to small issues being resolved rather than indefinitely deferre
 
 ## Details to add before the interview
 
-- One specific problem and the smaller fix you delivered.
-- What made the larger design better, and what coordination did it require?
-- How did you show that the smaller step was safe and did not block the longer-term approach?
-- Where and how did you record the larger solution for later follow-through?
-- Which small issues were resolved, and what headroom or capacity did that create?
-- What did your career manager observe that led to the feedback?
+- Example smaller fix.
+- Comprehensive-design benefits.
+- Safe-step proof.
+- Backlog mechanism.
+- Headroom gained.
+- Manager observation.
 
 ## Likely follow-ups
 
-- How did you avoid creating a temporary solution that the team would regret?
-- What did you do if the technical lead still preferred to wait?
-- How did you decide which issues were appropriate for an incremental fix?
-- How did you make sure the larger solution did not disappear from the backlog?
+- Avoid temporary debt.
+- Still wait?
+- Incremental-fit criteria.
+- Preserve larger backlog.
