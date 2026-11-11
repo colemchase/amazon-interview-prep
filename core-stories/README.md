@@ -13,3 +13,6 @@ Each file is one real experience prepared for behavioral interviews. The Leaders
 | [Creating capacity for a platform team to move beyond KTLO](platform-capacity-transformation.md) | Think Big; Ownership; Have Backbone, Disagree and Commit |
 | [Delivering a go-live when an integration failed at the last minute](last-minute-integration-recovery.md) | Deliver Results; Bias for Action; Ownership |
 | [Protecting service during an EC2 API incident](regional-ec2-api-incident-response.md) | Bias for Action; Dive Deep; Insist on the Highest Standards |
+| [Pioneering an HGN-based impaired-driving detection prototype](hgn-impaired-driving-detection.md) | Think Big; Learn and Be Curious; Ownership; Deliver Results |
+| [Mentoring interns and new grads through a cloud-native learning path](cloud-native-mentorship-learning-path.md) | Hire and Develop the Best; Strive to be Earth’s Best Employer; Learn and Be Curious |
+| [Using feedback to turn stalled improvements into progress](incremental-improvement-through-feedback.md) | Bias for Action; Earn Trust; Deliver Results |

@@ -2,6 +2,8 @@
 
 **Leadership Principles:** Earn Trust; Insist on the Highest Standards
 
+**Use:** [Pioneering an HGN-Based Impaired-Driving Detection Prototype](../core-stories/hgn-impaired-driving-detection.md)
+
 ## Draft answer
 
 > In my undergraduate capstone project, I built a machine-learning model that graded a user’s movement. Based on my K-fold validation results, I told the team the model was 99 percent accurate. A few weeks before I was scheduled to present the project at a research technology event, I discovered that the result was flawed: the evaluation was being affected by the order in which I had fed the training samples to the model. I had put all passing samples first and all failing samples last. When I corrected that configuration and reran the evaluation, accuracy dropped to 75 percent.

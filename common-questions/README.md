@@ -6,9 +6,9 @@ These are answer-ready practice prompts for common Amazon/AWS behavioral questio
 | --- | --- | --- |
 | [Tell me about yourself](tell-me-about-yourself.md) | N/A | Career narrative |
 | [Why Amazon?](why-amazon.md) | N/A | Career narrative and platform work |
-| [Tell me about a time you disagreed with a coworker](disagreed-with-a-coworker.md) | To choose | To choose |
-| [Tell me about a time you received feedback](received-feedback.md) | To choose | To choose |
-| [What project are you most proud of?](project-you-are-most-proud-of.md) | To choose | To choose |
+| [Tell me about a time you disagreed with a coworker](disagreed-with-a-coworker.md) | Ownership; Have Backbone, Disagree and Commit | HGN impaired-driving detection capstone |
+| [Tell me about a time you received feedback](received-feedback.md) | Bias for Action; Earn Trust; Deliver Results | Incremental improvement through feedback |
+| [What project are you most proud of?](project-you-are-most-proud-of.md) | Think Big; Learn and Be Curious; Ownership; Deliver Results | HGN impaired-driving detection capstone |
 | [Tell me about a failure or mistake](failure-or-mistake.md) | Earn Trust; Insist on the Highest Standards | Undergrad capstone model-validation hiccup |
 | [Tell me about a calculated risk you took](calculated-risk.md) | To choose | To choose |
 | [Tell me about a time you influenced without authority](influenced-without-authority.md) | To choose | To choose |
@@ -16,7 +16,7 @@ These are answer-ready practice prompts for common Amazon/AWS behavioral questio
 | [Tell me about a time you had competing priorities](competing-priorities.md) | To choose | To choose |
 | [Tell me about a decision you made using data](made-a-decision-using-data.md) | To choose | To choose |
 | [Tell me about a time you went above and beyond for a customer](went-above-and-beyond-for-a-customer.md) | Customer Obsession | CI/CD migration |
-| [Tell me about a time you helped someone grow](helped-someone-grow.md) | To choose | To choose |
+| [Tell me about a time you helped someone grow](helped-someone-grow.md) | Hire and Develop the Best; Strive to be Earth’s Best Employer | Cloud-native mentorship learning path |
 | [Tell me about a time you took ownership](took-ownership.md) | Ownership | SRE maintenance automation |
 | [Tell me about a time you simplified something complex](simplified-a-complex-process.md) | Invent and Simplify | SRE maintenance automation |
 | [Tell me about a time you earned trust](earned-trust.md) | Earn Trust | CI/CD delivery |
