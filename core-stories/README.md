@@ -11,3 +11,5 @@ Each file is one real experience prepared for behavioral interviews. The Leaders
 | [Earning trust to lead a larger CI/CD migration](earning-trust-through-cicd-delivery.md) | Earn Trust |
 | [Restoring consistent SSM access to EKS nodes](ssm-node-access-standardization.md) | Dive Deep; Insist on the Highest Standards; Deliver Results |
 | [Creating capacity for a platform team to move beyond KTLO](platform-capacity-transformation.md) | Think Big; Ownership; Have Backbone, Disagree and Commit |
+| [Delivering a go-live when an integration failed at the last minute](last-minute-integration-recovery.md) | Deliver Results; Bias for Action; Ownership |
+| [Protecting service during an EC2 API incident](regional-ec2-api-incident-response.md) | Bias for Action; Dive Deep; Insist on the Highest Standards |
