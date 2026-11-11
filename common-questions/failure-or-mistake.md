@@ -1,6 +1,12 @@
 # Tell Me About a Failure or Mistake
 
-**Story:** To choose
+**Leadership Principles:** Earn Trust; Insist on the Highest Standards
+
+## Draft answer
+
+> In my undergraduate capstone project, I built a machine-learning model that graded a user’s movement. Based on my K-fold validation results, I told the team the model was 99 percent accurate. A few weeks before I was scheduled to present the project at a research technology event, I discovered that the result was flawed: the evaluation was being affected by the order in which I had fed the training samples to the model. I had put all passing samples first and all failing samples last. When I corrected that configuration and reran the evaluation, accuracy dropped to 75 percent.
+>
+> I was disappointed, but presenting the 99 percent result would have been misleading. I told the team immediately, explained the error and its impact, and took ownership of correcting it. Over the following week, I improved the model using a valid evaluation approach and raised its accuracy into the low 90s. I presented the accurate result at the event, and the project received full university funding to pursue a patent. The mistake taught me that validation results are only as trustworthy as the evaluation setup, and that bad news needs to be shared quickly when others are relying on your work.
 
 ## What the interviewer is listening for
 
@@ -10,21 +16,26 @@
 
 ## Skim notes
 
-- Choose a real, meaningful mistake with a contained outcome.
-- State what you did, why it was wrong, and the impact.
-- Own it directly; do not disguise a success as a failure.
-- Explain immediate recovery, communication, and the durable prevention.
-- End with what you now do differently.
+- Capstone: ML model graded user movement.
+- Reported 99% accuracy based on K-fold validation.
+- Found evaluation was affected by ordered training data: passing samples first, failing samples last.
+- Corrected the configuration; accuracy fell to 75% weeks before the research event.
+- Shared the bad news immediately rather than present a misleading result.
+- Reworked the model with valid evaluation; accuracy reached the low 90s.
+- Presented accurate research; university fully funded patent pursuit.
+- Lesson: validate the validation and share bad news early.
 
 ## Details to add before the interview
 
-- What decision or action was yours?
-- Who was affected, and how did you tell them?
-- How did you contain or correct the issue?
-- What did you change afterward, and how do you know it worked?
+- What K-fold configuration or data-processing behavior allowed ordering to affect the evaluation?
+- How did you confirm the corrected evaluation was valid?
+- What model, feature, or training changes raised accuracy from 75% into the low 90s?
+- Who did you tell, how did they respond, and what did they need from you next?
+- What did you change in your validation process afterward?
 
 ## Likely follow-ups
 
-- Why did you make that decision at the time?
-- What warning sign did you miss?
-- How has this changed how you work today?
+- How did you discover the ordering issue?
+- Why did you trust the original validation result?
+- How did you improve the model without compromising the evaluation again?
+- How has this changed how you validate technical results today?
